@@ -1,8 +1,15 @@
-# React + Vite
+# EXPENSE TRACKER
+Expense Tracker Web Application with React JS and SaSS. Manages, Visualises and Helps tracks all your Expenses.
+*Built With*
+- **React**
+- **Sass**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## To run this project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```javascript
+   npm install  //To install dependencies
+   npm start    // To launch it
+```
+
+![moviebox shot](https://github.com/techy-savant/HNG-MOVIEBOX-PROJECT/assets/108519575/fd0c0099-c613-4251-b2ab-fdb3d5298396)
