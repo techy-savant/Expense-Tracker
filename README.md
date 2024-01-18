@@ -1,5 +1,5 @@
 # EXPENSE TRACKER
-Expense Tracker Web Application with React JS and SaSS. Manages, Visualises and Helps tracks all your Expenses.
+Expense Tracker Web Application. Manage, Visualise and track all your Expenses in one place.
 *Built With*
 - **React**
 - **Sass**
@@ -12,4 +12,4 @@ Expense Tracker Web Application with React JS and SaSS. Manages, Visualises and 
    npm start    // To launch it
 ```
 
-![moviebox shot](https://github.com/techy-savant/HNG-MOVIEBOX-PROJECT/assets/108519575/fd0c0099-c613-4251-b2ab-fdb3d5298396)
+![EXpense Tracker](https://github.com/techy-savant/Expense-Tracker/assets/108519575/6c3a606f-dc9f-4c76-99b7-3c1df1b95edc)
