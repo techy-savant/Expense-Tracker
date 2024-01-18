@@ -1,5 +1,6 @@
 # EXPENSE TRACKER
 Expense Tracker Web Application. Manage, Visualise and track all your Expenses in one place.
+<br>
 *Built With*
 - **React**
 - **Sass**
